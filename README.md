@@ -1,4 +1,4 @@
-# Expense Tracker Dashboard:
+# QuikNapp Expense Tracker Dashboard:
 
 A modern expense tracking web app built with **React (TypeScript)**, styled with **Tailwind CSS** and enhanced with **shadcn/ui** components.  
 It features charts, data persistence, and smooth UI/UX for personal finance management.
